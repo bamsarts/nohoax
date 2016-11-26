@@ -1,0 +1,9 @@
+.bg-red {
+  margin: 0;
+  padding: 0;
+  color: rgb(236, 235, 235);
+  background-color: rgb(249, 113, 104)
+}
+.article-title {
+   padding: 0;
+}
